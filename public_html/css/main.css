@@ -1,0 +1,50 @@
+/* ==========================================================================
+   Daniela Ferreira 
+   02/03/2020
+   ========================================================================== */
+
+
+#nome{
+    font-family: 'Lobster';
+    color: #004085;
+}
+
+#introducao{
+    margin-top: 50px;
+}
+
+.card-header{
+    background-color: black;
+}
+
+#sobre{
+    background-color: #002A41;
+    padding-bottom: 0px;
+}
+
+#miniatura{
+    margin-right: 5px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-family: 'Lobster Two', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
